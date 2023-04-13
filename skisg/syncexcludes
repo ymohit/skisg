@@ -1,0 +1,9 @@
+.git*
+dan/*
+logs/
+wandb/*
+libs/
+rcode/
+ipynb/*
+data/airline_dumps/
+results/*
